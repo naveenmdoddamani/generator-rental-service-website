@@ -1,3 +1,11 @@
+*How to Run:
+*Just 
+
+
+
+
+
+
 for password resetting i have used SSL security of E-mail password ,so for using your original e-mail address to get the mail from Django
 local host do the following steps:
 1. Login to your Account using https://myaccount.google.com/.
